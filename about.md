@@ -9,9 +9,8 @@ layout: page
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive </li>
-	<li>CSS (Sass)</li>
+	<li>HTML</li>
+	<li>CSS (SCSS)</li>
 	<li>Javascript </li>
 	<li>AngularJS - ReactJS</li>
 	<li>Git</li>
@@ -24,6 +23,5 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
 	
 </ul>
